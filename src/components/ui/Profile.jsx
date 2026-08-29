@@ -69,7 +69,7 @@ function Profile() {
   return (
     <div className="max-w-xl mx-auto p-6 bg-white rounded-xl shadow-md">
 
-      <h1 className="text-3xl font-bold mb-6">
+      <h1 className="text-4xl font-bold mb-6">
         Profile
       </h1>
 
